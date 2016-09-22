@@ -1,0 +1,65 @@
+{
+  "id": 1108702925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"23.1203533,42.6943675,23.1203533,42.6943675",
+    "geom:latitude":42.694367,
+    "geom:longitude":23.120353,
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "sg:address":"53B Nikola Vaptsarov Blvd",
+    "sg:city":"Sofia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1407",
+    "sg:tags":[
+        "ecommerce",
+        "payment-provider",
+        "payment-gateway",
+        "rebilling-services",
+        "micropayments"
+    ],
+    "sg:website":"http://www.g2s.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lDBU4KrvFy81Y8hPju0KG_42.694367_23.120353@1308163242"
+    },
+    "wof:country":"BG",
+    "wof:created":1474570891,
+    "wof:geomhash":"eebe7522846762b1bac339d31b2877e8",
+    "wof:hierarchy":[],
+    "wof:id":1108702925,
+    "wof:lastmodified":1474570891,
+    "wof:name":"Gate2Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ecommerce",
+        "payment-provider",
+        "payment-gateway",
+        "rebilling-services",
+        "micropayments"
+    ]
+},
+  "bbox": [
+    23.1203533,
+    42.6943675,
+    23.1203533,
+    42.6943675
+],
+  "geometry": {"coordinates":[23.1203533,42.6943675],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1108702927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"23.3512986,42.6816152,23.3512986,42.6816152",
+    "geom:latitude":42.681615,
+    "geom:longitude":23.351299,
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yavorov 71",
+    "sg:city":"Sofia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1000",
+    "sg:tags":[
+        "web-design",
+        "web-development",
+        "seo",
+        "web-2-0",
+        "sem",
+        "intertnet-marketing",
+        "logo-design",
+        "print-design",
+        "ajax",
+        "php"
+    ],
+    "sg:website":"http://ooyes.net/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929279,
+        102191581,
+        85633001,
+        101748887,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TVKjm2P4zZJMA0eeN763M_42.681615_23.351299@1308163242"
+    },
+    "wof:country":"BG",
+    "wof:created":1474570891,
+    "wof:geomhash":"11770558636d1a1b651b255334c7564e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748887,
+            "neighbourhood_id":85929279,
+            "region_id":85681771,
+            "venue_id":1108702927
+        }
+    ],
+    "wof:id":1108702927,
+    "wof:lastmodified":1474570891,
+    "wof:name":"MASS MEDIA GROUP",
+    "wof:parent_id":85929279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-design",
+        "web-development",
+        "seo",
+        "web-2-0",
+        "sem",
+        "intertnet-marketing",
+        "logo-design",
+        "print-design",
+        "ajax",
+        "php"
+    ]
+},
+  "bbox": [
+    23.3512986,
+    42.6816152,
+    23.3512986,
+    42.6816152
+],
+  "geometry": {"coordinates":[23.3512986,42.6816152],"type":"Point"}
+}
